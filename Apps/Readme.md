@@ -9,7 +9,7 @@ To Run the apps in testbed follow the following instructions:
 1. Clone this repo,
 2. go to peritcular app's folder eg. FedPainPaper/Apps/Logistic_Regression , add your train and test files of each client in Apps/Logistic_Regression/app/data/client_i
 3. you should have docker and python installed, now install featurecloud using 'pip install featurecloud'
-4. then while inside the app folder do 'featurecloud controller start'this starts the docker
+4. then while inside the app folder do 'featurecloud controller start'
 5. then do 'featurecloud app build .', this build the docker image
 6. go to featurecloud.ai > for developer > test
 7. chose the appname, right number of client and their path and start the app
