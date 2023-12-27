@@ -1,1 +1,1 @@
-Following ipython notebook deals with scriipts for evaluation and visuailzation of the same.
+Following ipython notebook deals with scripts for evaluation and visualization of the same.
